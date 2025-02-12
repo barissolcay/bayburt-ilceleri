@@ -1,0 +1,282 @@
+﻿Elmalı,Damlıca,8.4
+Damlıca,Kalecik,3.4
+Kalecik,Serenli,9.4
+Damlıca,Serenli,9.4
+Elmalı,Serenli,7.5
+Dikmetaş,Serenli,9.5
+Dikmetaş,Kalecik,7
+Dikmetaş,Beşpınar,8.7
+Kalecik,Beşpınar,8.1
+Beşpınar,Akyaka,3.4
+Akyaka,Otlukbeli,7
+Otlukbeli,Beşpınar,6.9
+Beşpınar,Yazıbaşı,3.8
+Yazıbaşı,Çağıllı,4.9
+Çağıllı,Pınarcık,2.5
+Pınarcık,Güçlü,3.4
+Güçlü,Işıkova,3.3
+Güçlü,Karayaşmak,4.5
+Karayaşmak,Demirözü Merkez,4.7
+Demirözü Merkez,Güvercindere,6.2
+Karayaşmak,Güvercindere,4.8
+Güvercindere,Devetaşı,6.1
+Yazıbaşı,Devetaşı,7.6
+Işıkova,Devetaşı,4.8
+Devetaşı,Eymür,8.1
+Eymür,Bayrampaşa,7.5
+Bayrampaşa,Demirözü Merkez,6.9
+Eymür,Demirözü Merkez,7.8
+Eymür,Gökçedere,10.5
+Gökçedere,Çimentepe,5.1
+Çimentepe,Kavaklı,3.8
+Kavaklı ,Yakupabdal,9.6
+Gökçedere,Yakupabdal,8.7
+Yakupabdal,Petekli,7.6
+Karayaşmak,Yukarıpınarlı,6.8
+Demirözü Merkez,Çakıröz,6.1
+Demirözü Merkez,Çatalçeşme,6.7
+Çatalçeşme,Çakıröz,3.3
+Güçlü,Soğukgöze,7.7
+Soğukgöze,Güzelce,2.1
+Güzelce,Ozansu,4.1
+Güzelce,Güllüce,3.5
+Güllüce,Çamdere,3.9
+Aşağıpınarlı,Çamdere,6
+Aşağıpınarlı,Yukarıpınarlı,2.6
+Aşağıpınarlı,Yelpınar,2.9
+Çamdere,Yelpınar,3.2
+Yelpınar,Sakızlı,7.8
+Sakızlı,Saraycık,5
+Saraycık,Kurugüney,2.3
+Saraycık,Ozansu,8.1
+Sakızlı,Sancaktepe,4.8
+Sancaktepe,Söğütlü,4.6
+Sancaktepe,Aşağıkışlak,5.3
+Sancaktepe,Aksaçlı,5.4
+Aksaçlı,Aşağıkışlak,3.6
+Aksaçlı,Göldere,0.9
+Göldere,Güder,3.2
+Güder,Yukarıkışlak,4.8
+Sarıhan,Yukarıkışlak,7.1
+Sarıhan,Yeniköy,6.8
+Yeniköy,Yaylalar,6
+Yaylalar,Sırakayalar,4.6
+Hacıoğlu,Sırakayalar,4.5
+Hacıoğlu,Kopuz,2.6
+Yeşilyurt,Kopuz,4.2
+Yeşilyurt,Harmanözü,10.9
+Demirışık,Harmanözü,7.1
+Gençosman,Harmanözü,20.9
+Gençosman,Örence,19.7
+Demirkaş,Örence,5.8
+Demirkaş,Sığırcı,3.5
+Örence,Kop,14.6
+Çatalçeşme,Kitre,11.5
+Çerçi,Kitre,7.1
+Çerçi,Balkaynak,27.5
+Çayıryolu,Demirözü Merkez,11.1
+Çayıryolu,Tomlacık,5.9
+Çayıryolu,Manas,6
+Çayıryolu,Çorak,6.8
+Çorak,Oruçbeyli,2.4
+Çorak,Kırkpınar,4.4
+Kırıkpınar,Kemertaş,5.7
+Kemertaş,Taşocağı,5.4
+Kırıkpınar,Bayırtepe,6.7
+Bayırtepe,Kavacık,6.6
+Kavacık,Yolaltı,5.4
+Danişment,Yolaltı,3.7
+Danişment,Mutlu,5.7
+Danişment,Gökpınar,8.6
+Mutlu,Gökpınar,10.6
+Mutlu,Kabaçayır,3.4
+Kabaçayır,Gökpınar,5.4
+Kabaçayır,Balca,3
+Sancaktepe,Balca,7.3
+Gençosman,Maden,10.5
+Kıratlı,Maden,5.3
+Kıratlı,Helva,6.6
+Helva,Maden,12.7
+Örence,Çalıdere,11.9
+Çalıdere,Kop,8.8
+Çalıdere,Akduran,12.6
+Başçımağıl,Akduran,13.7
+Başçımağıl,Ortaçımağıl,6.2
+Aşağıçımağıl,Ortaçımağıl,7.3
+Aşağıçımağıl,Ağören,9.9
+Iğdır,Ağören,6.5
+Iğdır,Petekkaya,13.9
+Iğdır,Taşçılar,13.3
+Petekkaya,Taşçılar,5.3
+Aşağıçımağıl,Taşçılar,12.3
+Aşağıçımağıl,Petekkaya,10.7
+Masat,Taşçılar,7
+Helva,Masat,13
+Kıratlı,Masat,15.8
+Maden,Gez,12.5
+Heybetepe,Gümüşsu,5.4
+Maden,Gümüşsu,22.3
+Uluçayır,Gümüşsu,15.3
+Maden,Yaylapınar,8.7
+Kıratlı,Yaylapınar,8.7
+Helva,Yaylapınar,12.7
+Masat,Yaylapınar,15.8
+Uluçayır,Salkımsu,6.2
+Kurbanpınar,Salkımsu,8.2
+Uluçayır,Kurbanpınar,5.3
+Taht,Kurbanpınar,7.8
+Taht,Dövmekaya,3.2
+Kavakyanı,Dövmekaya,7
+Taht,Akçakuzu,5.9
+Kavakyanı,Alapelit,6.8
+Alapelit,Dövmekaya,7.6
+Kurbanpınar,Yerlice,9.6
+Uluçayır,Yerlice,6.6
+Yanıkçam,Alapelit,10.9
+Taht,Polatlı,4.6
+Akçakuzu,Polatlı,8.3
+Dağtarla,Polatlı,3.6
+Uluçayır,Erenli,8.4
+Kurbanpınar,Erenli,12.5
+Yerlice,Erenli,12.8
+Bayburt Merkez,Erenli,3.3
+Bayburt Merkez,Tepetarla,8.4
+Buğdaylı,Tepetarla,3.2
+Bayburt Merkez,Buğdaylı,11.5
+Bayburt Merkez,Danişment,7.6
+Bayburt Merkez,Gökpınar,8.1
+Bayburt Merkez,Maden,19.6
+Bayburt Merkez,Yeşilyurt,12.2
+Bayburt Merkez,Harmanözü,14.6
+Bayburt Merkez,Gençosman,20.7
+Yanıkçam,Arslandede,6.6
+Çakırbağ,Arslandede,3.2
+Çakırbağ,Çamlıkoz,5.5
+Bayraktar,Çamlıkoz,6
+Taşburun,Çamlıkoz,6.8
+Taşburun,Darıca,14.2
+Çakırbağ,Darıca,7.8
+Yazyurdu,Arslandede,8.9
+Yoncalı,Darıca,11.5
+Taşburun,Yoncalı,9.4
+Yazyurdu,Üzengili,16.1
+Armutlu,Üzengili,8.3
+Ardıçgöze,Armutlu,5.1
+Armutlu,Koçbayır,5
+Göloba,Koçbayır,6.4
+Göloba,Ardıçgöze,6.4
+Sarımeşe,Koçbayır,4.3
+Sarımeşe,Çiğdemlik,2.6
+Sırataşlar,Çiğdemlik,3.5
+Kozluk,Çiğdemlik,7.6
+Sırataşlar,Kozluk,7.5
+Sırataşlar,Kılıçkaya,7.3
+Erikdibi,Çiğdemlik,3.3
+Erikdibi,Sarımeşe,4
+Erikdibi,Akbulut,3.7
+Akbulut,Konursu,2.3
+Seydiyakup,Konursu,3.7
+Uğurgeldi,Konursu,9.5
+Gökçeli,Konursu,9.7
+Adabaşı,Konursu,6.5
+Uğurgeldi,Gökçeli,5
+Uğurgeldi,Adabaşı,6.4
+Gökçeli,Adabaşı,6.6
+Adabaşı,Aydıncık,3.2
+Adabaşı,Yedigöze,3
+Aydıncık,Yedigöze,2.9
+Adabaşı,Ballıkaya,5.5
+Yedigöze,Ballıkaya,4.9
+Adabaşı,Çayırözü,5.7
+Karşıgeçit,Çayırözü,1.9
+Karşıgeçit,Ballıkaya,2.5
+Karşıgeçit,Arslandede,5.8
+Dağtarla,Ballıkaya,5.9
+Yanıkçam,Ballıkaya,10.9
+Akçakuzu,Ballıkaya,9.4
+Yanıkçam,Karşıgeçit,10.2
+Adabaşı,Dikmetaş,5.9
+Aydıncık,Dikmetaş,5.8
+Değirmencik,Dikmetaş,3.5
+Değirmencik,Buğdaylı,6.6
+Dumlu,Kavlatan,6.8
+Dumlu,Kılıçkaya,9.4
+Günbuldu,Kavlatan,8.1
+Erikdibi,Karlıca,5.8
+Akbulut,Karlıca,4.4
+Akbulut,Yapracık,3.9
+Karlıca,Yapracık,3.7
+Yanoba,Yapracık,3.8
+Yanoba,Karlıca,13.8
+Akbulut,İncili,3.9
+Yapracık,İncili,3.5
+Değirmencik,İncili,8.3
+Aydıntepe Merkez,İncili,5.6
+Gümüşdamla,İncili,14.9
+Gümüşdamla,Yanoba,11.8
+Aydıntepe Merkez,Çayırköprü,7.1
+Değirmencik,Çayırköprü,6.3
+Konursu,Çayırköprü,6.7
+Akbulut,Çayırköprü,7.3
+Alıçlık,Çayırköprü,3.7
+Taşkesen,Çayırköprü,8
+Aydıntepe Merkez,Aşağıkırzı,4.1
+Taşkesen,Aşağıkırzı,4.8
+Taşkesen,Bayburt Merkez,9
+Uğrak,Bayburt Merkez,13.5
+Uğrak,Çiğdemtepe,3
+Taşkesen,Çiğdemtepe,4.9
+Uğrak,Yolaltı,3.8
+Uğrak,Kavacık,9.2
+Uğrak,Taşocağı,12.5
+Arpalı,Çiğdemtepe,5.4
+Arpalı,Aydıntepe Merkez,4.8
+Aydıntepe Merkez,Gümüşdamla,13
+Aydıntepe Merkez,Günbuldu,22.7
+Günbuldu,Kavlatan,8.1
+Uğrak,Nişantaşı,12.5
+Arpalı,Nişantaşı,5.6
+Yukarıkırzı,Nişantaşı,5.5
+Yukarıkırzı,Aydıntepe Merkez,5.5
+Yukarıkırzı,Çatıksu,3.3
+Şalcılar,Çatıksu,8.1
+Şalcılar,Yukarıkırzı,5.8
+Nişantaşı,Kemertaş,14.9
+Nişantaşı,Taşocağı,4.3
+Akşar,Kemertaş,10.1
+Akşar,Taşocağı,10.7
+Akşar,Kırkpınar,9.5
+Bayburt Merkez,Balkaynak,32.2
+Akşar,Balkaynak,6.7
+Akşar,Pamuktaş,7.5
+Alaca,Pamuktaş,12.4
+Alaca,Pınargözü,5.9
+Pınargözü,Çatıksu,9.4
+Yukarıkırzı,Çatıksu,3.3
+Başpınar,Çatıksu,5.4
+Suludere,Çatıksu,9.3
+Yazlık,Çatıksu,6.3
+Suludere,Sorkunlu,12.6
+Suludere,Günbuldu,12.5
+Aydıntepe Merkez,Günbuldu,22.7
+Akşar,Balkaynak,6.7
+Balkaynak,Güneydere,5.4
+Dağçatı,Güneydere,5.4
+Güneydere,Gökler,7.6
+Bayburt Merkez,Yolaltı,11.1
+Bayburt Merkez,Kavacık,15.7
+Bayburt Merkez,Nişantaşı,21.3
+Bayburt Merkez,Taşocağı,22.8
+Akşar,Bayburt Merkez,27.6
+Yazlık,Suludere,10
+Yazlık,Şalcılar,3.2
+Koçbayır,Pelitli,6.3
+Armutlu,Pelitli,7.8
+Ardıçgöze,Pelitli,11.5
+Sorkunlu,Alaca,15.3
+Sorkunlu,Başpınar,8.9
+Sorkunlu,Pamuktaş,20
+Alaca,Pamuktaş,12.4
+Alaca,Pınargözü,5.9
+Yoncalı,Üzengili,27.2
+Yoncalı,Yazyurdu,21.5
